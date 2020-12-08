@@ -1,0 +1,15 @@
+# virtualenv
+env/
+venv/
+.env/
+.venv/
+
+# mypy
+.mypy_cache/
+
+# pytype
+.pytype/
+
+# python
+__pycache__/
+*.pyc
